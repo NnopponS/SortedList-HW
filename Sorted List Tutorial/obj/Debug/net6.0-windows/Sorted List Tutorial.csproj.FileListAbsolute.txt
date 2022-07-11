@@ -1,0 +1,21 @@
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\bin\Debug\net6.0-windows\Sorted List Tutorial.exe
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\bin\Debug\net6.0-windows\Sorted List Tutorial.deps.json
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\bin\Debug\net6.0-windows\Sorted List Tutorial.runtimeconfig.json
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\bin\Debug\net6.0-windows\Sorted List Tutorial.dll
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\bin\Debug\net6.0-windows\Sorted List Tutorial.pdb
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.csproj.AssemblyReference.cache
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial_MarkupCompile.cache
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial_MarkupCompile.lref
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.g.resources
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.AssemblyInfoInputs.cache
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.AssemblyInfo.cs
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.dll
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\refint\Sorted List Tutorial.dll
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.pdb
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\Sorted List Tutorial.genruntimeconfig.cache
+C:\Users\Knighttt\source\repos\9.Collection\SortedList\Sorted List Tutorial\Sorted List Tutorial\obj\Debug\net6.0-windows\ref\Sorted List Tutorial.dll
